@@ -1,3 +1,6 @@
 aaaaaaaaaaaaaaaaaaaaaaaasa
 sa~~~~~~~~~~
 sadadadasdada
+
+
+试一下diff命令
