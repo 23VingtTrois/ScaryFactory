@@ -4,3 +4,6 @@ sadadadasdada
 
 
 试一下diff命令
+
+这是要被试用add命令提交的信息
+
