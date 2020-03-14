@@ -7,3 +7,9 @@ sadadadasdada
 
 这是要被试用add命令提交的信息
 
+
+这是在add之后添加的消息
+
+
+这是实验commit是否会把消息提交到暂存区
+
