@@ -13,3 +13,10 @@ sadadadasdada
 
 这是实验commit是否会把消息提交到暂存区
 
+
+
+add的信息
+
+
+add之后又填写了新的信息
+
